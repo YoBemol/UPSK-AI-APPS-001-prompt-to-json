@@ -1,7 +1,7 @@
 {
   "name": "06-talent-fest-23-2",
   "version": "1.0.0",
-  "description": "Reto 2 de selección para Talent Fest",
+  "description": "Reto 2.0 de selección para Talent Fest",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
